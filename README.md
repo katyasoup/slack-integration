@@ -1,1 +1,1 @@
-# slack-integration
+# Slack Integration
